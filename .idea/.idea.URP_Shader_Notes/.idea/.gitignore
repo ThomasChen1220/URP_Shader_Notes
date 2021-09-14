@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.URP_Shader_Notes.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Projects\UnityPackage\URP_Shader_Notes\URP_Shader_Notes\.idea\.idea.URP_Shader_Notes\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
